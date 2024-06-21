@@ -1,6 +1,6 @@
 # Code-Adventure
 <p><b>Download per il gioco<br/>
-&nbsp  &nbsp  &nbsp  <a href="">Code Adventure v0.2A</a></b></p>
+&nbsp  &nbsp  &nbsp  <a href="https://github.com/albertomostarda/Code-Adventure/releases/download/v0.2-alpha/Code_Adv_0.2A.exe">Code Adventure v0.2A</a></b></p>
 
 # Per gli utenti di Windows 11:
 - Aprire Windows terminal:
