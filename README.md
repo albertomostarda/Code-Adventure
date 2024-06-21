@@ -1,6 +1,6 @@
 # Code-Adventure
-**Download per il gioco**
-***[Code Adventure v0.2A]()**
+<p><b>Download per il gioco<br/>
+&nbsp  &nbsp  &nbsp  <a href="">Code Adventure v0.2A</a></b></p>
 
 # Per gli utenti di Windows 11:
 - Aprire Windows terminal:
