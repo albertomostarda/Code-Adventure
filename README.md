@@ -35,8 +35,8 @@
   ![screen 2](https://github.com/albertomostarda/Code-Adventure/assets/167896436/b956e0eb-9f17-4382-b975-392aa89af864)
 
 - Impostare l'applicazione terminale predefinita su Windows Console Host:
-
-    ![image](https://github.com/albertomostarda/Code-Adventure/assets/167896436/a92c3ffb-1d2f-458f-9ce7-1e1343f23b3c)
+  
+  ![341726557-a92c3ffb-1d2f-458f-9ce7-1e1343f23b3c](https://github.com/albertomostarda/Code-Adventure/assets/167896436/dd548f97-20af-4f42-8acf-697862b80377)
 
 - Salva le modifiche:
 
