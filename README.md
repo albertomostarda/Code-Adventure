@@ -1,6 +1,6 @@
 # Code-Adventure
 <p><b>Download per il gioco<br/>
-&nbsp  &nbsp  &nbsp  <i><a href="https://github.com/albertomostarda/Code-Adventure/releases/download/v0.2.2-alpha/Code_Adventure_v0.2.2A.exe">Code Adventure v0.2.2A</a></i></b></p>
+&nbsp  &nbsp  &nbsp  <i><a href="https://github.com/albertomostarda/Code-Adventure/releases/download/v0.3.0-alpha/Code_Adv_v0.3.0A.exe">Code Adventure v0.3.0A</a></i></b></p>
 <br/><p><b><i>SE IL TUO SISTEMA OPERATIVO È WINDOWS 11 IN BASSO C'È UN ALTRA GUIDA PER FAR FUNZIONARE IL PROGRAMMA!</i></b></p>
 <h3>Istruzioni per il download</h3>
   <ul>
